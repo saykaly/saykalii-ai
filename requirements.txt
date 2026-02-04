@@ -1,0 +1,9 @@
+﻿streamlit
+streamlit-authenticator
+pyyaml
+langchain-google-genai
+python-dotenv
+pandas
+openpyxl
+markdown-pdf
+plotly

@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    tony:
+      email: tony@email.com
+      name: Tony
+      password: '$2b$12$wrr.5aWeXyexpxVEYZvVb.ZHCJ.km/M5ZEQm1AU2PTta8eM8nbAmq'
+cookie:
+  expiry_days: 30
+  key: 'a_very_long_signature_key_32_chars'
+  name: 'tony_auth_cookie'
